@@ -1,4 +1,4 @@
-Progetto di Linguaggi Formali e Automi.
+# Progetto di Linguaggi Formali e Automi.
 
 Il progetto implementa la catena di equivalenza tra espressioni regolari,
 ε-NFA e DFA, dimostrando sperimentalmente i risultati teorici studiati
