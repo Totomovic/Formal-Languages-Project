@@ -19,12 +19,12 @@ Partendo da un'espressione regolare, il programma costruisce:
 - Python 3  
 
 ## Esempio di utilizzo
-```bash
 python main.py
 
 ### Input
 Inserisci la regex: (a|b)*abb
 Inserisci la stringa da testare: aababb
+
 ### Output
 Regex: (a|b)*abb
 Stringa: aababb
