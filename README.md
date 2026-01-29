@@ -16,6 +16,7 @@ Partendo da un'espressione regolare, il programma costruisce:
 - Verifica automatica dell’appartenenza della stringa al linguaggio
 
 ## Tecnologie
+```bash
 - Python 3  
 
 ## Esempio di utilizzo
