@@ -26,5 +26,10 @@ python main.py
 Inserisci la regex: (a|b)*abb
 Inserisci la stringa da testare: aababb
 ### Output
-Inserisci la regex: (a|b)*abb
-Inserisci la stringa da testare: aababb
+Regex: (a|b)*abb
+Stringa: aababb
+Risultato: ACCETTATA
+Numero stati DFA: 6
+q0 = {...}
+q1 = {...} (accettante)
+...
